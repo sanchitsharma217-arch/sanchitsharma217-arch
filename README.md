@@ -1,136 +1,278 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:090d16&height=220&section=header&text=Sanchit%20Sharma&fontSize=44&fontAlignY=40&fontColor=ffffff&desc=%E2%9C%A6%20Creative%20Technologist%20%7C%20Luxury%20Web%20Architect%20%E2%9C%A6&descAlignY=62&descSize=17&descAlign=50&descColor=D4AF37" width="100%" alt="Header" />
-
-  <!-- Animated Typing Tagline -->
+  <!-- Bespoke 3D Cinematic Hero Banner (Live Hosted URL) -->
   <a href="https://github.com/sanchitsharma217-arch">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=true&width=780&height=85&lines=%E2%9C%A6+Architecting+Luxury+Digital+Experiences+%26+3D+Environments;%E2%9C%A6+Three.js+%E2%80%A2+React+19+%E2%80%A2+Next.js+%E2%80%A2+GSAP+%E2%80%A2+Motion;%E2%9C%A6+Engineering+at+NEXVEDA+%E2%80%94+Creator+of+Havenix+%26+AuraVoyage" alt="Typing Tagline" />
+    <img src="https://files.catbox.moe/vz28tc.png" width="100%" alt="Sanchit Sharma — Creative Technologist & Immersive Web Architect" />
   </a>
 
+  <br/><br/>
+
+  <!-- High-Impact Animated Typing Headline -->
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=true&width=850&height=80&lines=%E2%9C%A6+DESIGNING+DIGITAL+EXPERIENCES.+ENGINEERING+POSSIBILITIES.;%E2%9C%A6+IMMERSIVE+3D+WEB+%E2%80%A2+THREE.JS+%E2%80%A2+REACT+19+%E2%80%A2+GSAP+%E2%80%A2+LENIS;%E2%9C%A6+CREATOR+OF+HAVENIX+%E2%80%A2+AURAVOYAGE+%E2%80%A2+VERDORA;%E2%9C%A6+ENGINEERING+AT+NEXVEDA" alt="Typing Headline" />
+
+  <br/>
+
+  <!-- High-Contrast Action Badges -->
   <p align="center">
-    <a href="mailto:sanchitsharma217@gmail.com">
-      <img src="https://img.shields.io/badge/Direct%20Inquiry-0D1117?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email Badge" />
+    <a href="https://sanchitsharma217-arch.github.io/Sanchit-Portfolio/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20LIVE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
     </a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/sanchit-sharma-59070442a/">
-      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Badge" />
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
+    &nbsp;
+    <a href="mailto:sanchitsharma217@gmail.com">
+      <img src="https://img.shields.io/badge/DIRECT_EMAIL-INQUIRE-D4AF37?style=for-the-badge&logo=gmail&logoColor=black"/>
+    </a>
+    &nbsp;
     <a href="https://github.com/sanchitsharma217-arch?tab=repositories">
-      <img src="https://img.shields.io/badge/Selected%20Works-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories Badge" />
+      <img src="https://img.shields.io/badge/ALL_REPOSITORIES-BROWSE-202020?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
 
 </div>
 
+<br/>
+
 ---
 
-### ✦ The Atelier // About Me
+# 01 — THE INTRODUCTION
 
-```yaml
-identity: Sanchit Sharma
-discipline: Creative Engineering & Luxury Web Architecture
-organization: NEXVEDA
-core_stack: [React 19, Next.js, Three.js, GSAP, TypeScript, Tailwind CSS]
-design_ethos: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
+### Beyond conventional development.
+
+I'm **Sanchit Sharma**, a creative technologist focused on the intersection of engineering, visual design, and immersive digital experiences.
+
+I approach the web not merely as an informational canvas, but as a spatial medium for interaction, emotion, and technical experimentation. My work fuses modern frontend engineering, real-time 3D scenes (Three.js / WebGL), fluid kinetic physics, and editorial Swiss typography.
+
+Currently building with **NEXVEDA**.
+
+```zsh
+➜  atelier git:(main) cat manifesto.json
+{
+  "engineer": "Sanchit Sharma",
+  "discipline": "Creative Technologist & Immersive Web Architect",
+  "organization": "NEXVEDA",
+  "flagship_stack": ["Next.js 16", "React 19", "Three.js", "GSAP", "Lenis", "Tailwind CSS"],
+  "philosophy": "Design with intention. Engineer with precision. Create without limits."
+}
 ```
 
-> **Creative Technologist & Frontend Engineer** dedicated to bridging haute aesthetics, 3D spatial computing, and micro-kinetics with high-performance web systems. Crafting digital products that feel bespoke, tactile, and unforgettable.
+<br/>
 
 ---
 
-### ✦ Featured Works & Architecture
+# 02 — THE PHILOSOPHY
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/01-DESIGN-D4AF37?style=for-the-badge" /><br/><br/>
+<b>Visual Haute Couture</b><br/>
+Editorial typography, spatial balance, chromatic harmony, and luxury brand aesthetics.
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/02-ENGINEERING-FFFFFF?style=for-the-badge" /><br/><br/>
+<b>Precision Systems</b><br/>
+React 19, zero-latency state, custom shaders, and clean scalable architecture.
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/03-IMMERSION-00FFA3?style=for-the-badge" /><br/><br/>
+<b>Spatial Kinetics</b><br/>
+Inertia momentum scrolling, GSAP choreographies, and tactile micro-interactions.
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+# 03 — SELECTED WORKS & DIGITAL CREATIONS
+
+<div align="center">
+  <h3>ENGINEERED EXPERIENCES</h3>
+  <p><em>Click any card to launch the live deployed application or explore the codebase.</em></p>
+</div>
+
+<br/>
 
 <table>
+  <!-- Project 1: HAVENIX -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🪐 Havenix</h3>
-      <p><em>Next-Generation Immersive 3D Web Experience & Spatial Design.</em></p>
-      <p>Engineered with cutting-edge 3D scene graphs, custom shaders, and hyper-smooth kinetic momentum scrolling.</p>
+    <td width="100%" colspan="2">
+      <h2 align="left">🪐 01 / HAVENIX — Immersive 3D Spatial Experience</h2>
+      <p>A flagship 3D web experience exploring spatial interfaces, WebGL shader interactions, and inertia momentum scrolling.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" />
-        <img src="https://img.shields.io/badge/Lenis-000000?style=flat-square&logo=scroll&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Lenis_Scroll-111111?style=flat-square&logo=scroll&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
-      <a href="https://github.com/sanchitsharma217-arch/Havenix"><b>Explore Havenix Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🪞 AuraVoyage</h3>
-      <p><em>Ultra-Luxury Travel Concierge, 5-Star Sanctuaries & Custom Itinerary Studio.</em></p>
-      <p>A bespoke luxury travel platform tailored for high-net-worth clients, fine dining, and private sanctuaries.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-      <a href="https://github.com/sanchitsharma217-arch/AuraVoyage"><b>Explore AuraVoyage Repository →</b></a>
+      <a href="https://sanchitsharma217-arch.github.io/Havenix/">
+        <img src="https://img.shields.io/badge/LAUNCH_LIVE_3D-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/sanchitsharma217-arch/Havenix">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-202020?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
+
+  <!-- Project 2: AURAVOYAGE -->
   <tr>
-    <td colspan="2" valign="top">
-      <h3 align="left">🌿 Verdora</h3>
-      <p><em>Luxury Botanical E-Commerce Experience.</em></p>
-      <p>An editorial commerce platform blending organic flora with modern minimalist typography and fluid motion transitions.</p>
+    <td width="100%" colspan="2">
+      <h2 align="left">🪞 02 / AURAVOYAGE — Ultra-Luxury Concierge & Sanctuaries</h2>
+      <p>An editorial luxury travel platform tailored for 5-star sanctuaries, Michelin fine dining reservations, and custom itinerary curation.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
-      <a href="https://github.com/sanchitsharma217-arch/verdora"><b>Explore Verdora Repository →</b></a>
+      <a href="https://sanchitsharma217-arch.github.io/AuraVoyage/">
+        <img src="https://img.shields.io/badge/LAUNCH_LIVE_EXPERIENCE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/sanchitsharma217-arch/AuraVoyage">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-202020?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Project 3: VERDORA -->
+  <tr>
+    <td width="100%" colspan="2">
+      <h2 align="left">🌿 03 / VERDORA — Luxury Botanical E-Commerce</h2>
+      <p>An editorial-grade botanical digital commerce experience blending natural flora with minimalist layouts and fluid motion choreography.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+      <a href="https://sanchitsharma217-arch.github.io/verdora/">
+        <img src="https://img.shields.io/badge/LAUNCH_LIVE_COMMERCE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/sanchitsharma217-arch/verdora">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-202020?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Project 4: PORTFOLIO -->
+  <tr>
+    <td width="100%" colspan="2">
+      <h2 align="left">🌐 04 / PORTFOLIO — Creative Identity & Digital Atelier</h2>
+      <p>Personal digital atelier showcasing creative experiments, interface systems, and selected architectural works.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://sanchitsharma217-arch.github.io/Sanchit-Portfolio/">
+        <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/sanchitsharma217-arch/Sanchit-Portfolio">
+        <img src="https://img.shields.io/badge/SOURCE_CODE-202020?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
-### ✦ Technical Arsenal & Instruments
+# 04 — THE TECHNICAL ARSENAL
 
 <div align="center">
-  <p><b>Creative Motion, 3D & Frontend Architecture</b></p>
+
+  <p><b>✦ 3D, IMMERSIVE & FRONTEND ARCHITECTURE</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,threejs,tailwind,html,css&theme=dark" alt="Frontend Arsenal" />
   </a>
+
   <br/><br/>
-  <p><b>Workflow, Versioning & Design Tools</b></p>
+
+  <p><b>✦ TOOLING, DESIGN & ECOSYSTEM</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=dark" alt="Tooling Arsenal" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=dark" alt="Design and Tools" />
   </a>
+
 </div>
+
+<br/>
 
 ---
 
-### ✦ Dynamic GitHub Telemetry
+# 05 — TELEMETRY & CHOREOGRAPHED MATRIX
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchitsharma217-arch&show_icons=true&theme=radical&hide_border=true&bg_color=090d16&title_color=D4AF37&icon_color=D4AF37&text_color=9CA3AF&border_radius=12" width="48%" alt="GitHub Overall Stats" />
+  <!-- Overall GitHub Stats & Languages -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanchitsharma217-arch&show_icons=true&theme=radical&hide_border=true&bg_color=050811&title_color=D4AF37&icon_color=D4AF37&text_color=9CA3AF&border_radius=12" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitsharma217-arch&layout=compact&theme=radical&hide_border=true&bg_color=090d16&title_color=D4AF37&text_color=9CA3AF&border_radius=12" width="48%" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitsharma217-arch&layout=compact&theme=radical&hide_border=true&bg_color=050811&title_color=D4AF37&text_color=9CA3AF&border_radius=12" alt="Top Languages" />
 
   <br/><br/>
 
   <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=sanchitsharma217-arch&theme=radical&hide_border=true&background=090d16&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=D4AF37&border_radius=12" width="98%" alt="Streak Stats" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=sanchitsharma217-arch&theme=radical&hide_border=true&background=050811&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=D4AF37&border_radius=12" alt="Streak Stats" />
 
-</div>
+  <br/><br/>
 
----
-
-### ✦ Contribution Matrix Activity
-
-<div align="center">
-  <!-- Snake contribution animation -->
+  <!-- Interactive Contribution Snake Game -->
+  <p><b>✦ CONTRIBUTION GRAPH // CHOREOGRAPHED MATRIX</b></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanchitsharma217-arch/sanchitsharma217-arch/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanchitsharma217-arch/sanchitsharma217-arch/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sanchitsharma217-arch/sanchitsharma217-arch/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
+
 </div>
+
+<br/>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:090d16&height=120&section=footer" width="100%" alt="Footer" />
-</div>
+# 06 — THE CONNECTION
 
+<div align="center">
+
+  <h3>HAVE AN AMBITIOUS PROJECT OR VISION?</h3>
+  <p>Open to high-impact creative engineering, 3D web experiences, and bespoke digital platforms.</p>
+
+  <br/>
+
+  <a href="https://sanchitsharma217-arch.github.io/Sanchit-Portfolio/">
+    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sanchit-sharma-59070442a/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sanchitsharma217@gmail.com">
+    <img src="https://img.shields.io/badge/DIRECT_EMAIL-INQUIRE-D4AF37?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,40:0d1527,70:1a2333,100:050811&height=120&section=footer" width="100%" alt="Footer" />
+
+  <br/>
+
+  <h2>SANCHIT SHARMA</h2>
+  <p><b>DESIGN · ENGINEERING · IMMERSION</b></p>
+  <p><em>Crafting the next generation of the web.</em></p>
+
+</div>
