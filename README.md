@@ -214,37 +214,7 @@ Inertia momentum scrolling, GSAP choreographies, and tactile micro-interactions.
 
 ---
 
-# 05 — TELEMETRY & CHOREOGRAPHED MATRIX
-
-<div align="center">
-
-  <!-- Overall GitHub Stats & Languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanchitsharma217-arch&show_icons=true&theme=radical&hide_border=true&bg_color=050811&title_color=D4AF37&icon_color=D4AF37&text_color=9CA3AF&border_radius=12" alt="GitHub Stats" />
-  &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitsharma217-arch&layout=compact&theme=radical&hide_border=true&bg_color=050811&title_color=D4AF37&text_color=9CA3AF&border_radius=12" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- Streak Stats Card -->
-  <img width="98%" src="https://streak-stats.demolab.com?user=sanchitsharma217-arch&theme=radical&hide_border=true&background=050811&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=D4AF37&border_radius=12" alt="Streak Stats" />
-
-  <br/><br/>
-
-  <!-- Interactive Contribution Snake Game -->
-  <p><b>✦ CONTRIBUTION GRAPH // CHOREOGRAPHED MATRIX</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanchitsharma217-arch/sanchitsharma217-arch/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanchitsharma217-arch/sanchitsharma217-arch/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sanchitsharma217-arch/sanchitsharma217-arch/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-
-</div>
-
-<br/>
-
----
-
-# 06 — THE CONNECTION
+# 05 — THE CONNECTION
 
 <div align="center">
 
